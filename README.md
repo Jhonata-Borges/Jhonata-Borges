@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Jhonata Borges 👋</h1>
 
-<!--
-**Jhonata-Borges/Jhonata-Borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor Back-end em formação <br>
+🎓 Estudante de Sistemas da Informação <br>
+🚀 Focado em Python e Django
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎯 Buscando minha primeira oportunidade na área de tecnologia
+- 📚 Estudando Python e desenvolvimento Back-end
+- 💡 Sempre aprendendo coisas novas
+
+---
+
+## 🛠️ Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## 🧠 Habilidades
+- Lógica de programação  
+- Trabalho em equipe  
+- Organização  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+- 📧 seuemail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/seulink
