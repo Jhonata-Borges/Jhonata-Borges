@@ -3,14 +3,14 @@
 <p align="center">
 💻 Desenvolvedor Back-end em formação <br>
 🎓 Estudante de Sistemas da Informação <br>
-🚀 Focado em Python e Django
+🚀 Focado em Python e Java
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 - 🎯 Buscando minha primeira oportunidade na área de tecnologia
-- 📚 Estudando Python e desenvolvimento Back-end
+- 📚 Estudando Python e Sistemas Da Informação
 - 💡 Sempre aprendendo coisas novas
 
 ---
