@@ -17,7 +17,6 @@
 
 ## 🛠️ Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
@@ -38,3 +37,6 @@
 ## 📫 Contato
 - 📧 jhonataborgespessoal@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/se](https://www.linkedin.com/in/jhonata-borges-826173400/)
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/SEUUSER/SEUUSER/blob/output/github-contribution-grid-snake.svg)
