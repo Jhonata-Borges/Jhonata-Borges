@@ -33,10 +33,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=dark)
 
 ---
-## 🐍 Contribuições
-![Snake animation](https://github.com/SEUUSER/SEUUSER/blob/output/github-contribution-grid-snake.svg)
-
----
 ## 📫 Contato
 - 📧 jhonataborgespessoal@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/se](https://www.linkedin.com/in/jhonata-borges-826173400/)
