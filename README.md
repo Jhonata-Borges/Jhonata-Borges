@@ -36,5 +36,5 @@
 ---
 
 ## 📫 Contato
-- 📧 seuemail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/seulink
+- 📧 jhonataborgespessoal@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/se](https://www.linkedin.com/in/jhonata-borges-826173400/)
